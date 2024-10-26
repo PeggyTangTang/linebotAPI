@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d171fe2-e0eb-40fa-a331-1641ddbf01a9)# ◆註冊 github 帳號 並且登入
+# ◆註冊 github 帳號 並且登入
 ### 請參考課程網頁 https://ez2tv.myds.me/moodle/mod/page/view.php?id=10721
 
 
@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/c780d5fa-100a-42fd-873c-b67a27485756)
 
 ## 程式佈署的環境設定
-![image](https://github.com/user-attachments/assets/39c99481-f83e-40bc-9a57-a2bf202478c9)
+### →![image](https://github.com/user-attachments/assets/39c99481-f83e-40bc-9a57-a2bf202478c9)
 ### →![image](https://github.com/user-attachments/assets/1485f125-789a-4cbc-9868-ef949c46872d)
 ### →![image](https://github.com/user-attachments/assets/e5fe5701-33d6-402d-ab6b-7524335a0963)
 ### →![image](https://github.com/user-attachments/assets/ec84571a-304c-4675-a032-5913bceebb65)
