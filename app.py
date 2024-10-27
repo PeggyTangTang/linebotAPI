@@ -60,7 +60,7 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, TextSendMessage(GPT_answer))
     except Exception as e:
         print(traceback.format_exc())
-        error_message = '發生錯誤，請檢查日誌以了解詳情。'
+        error_message = '發生錯誤，請檢查日誌以了解詳情，請聯繫客服。'
         line_bot_api.reply_message(event.reply_token, TextSendMessage(error_message))
 
 @handler.add(PostbackEvent)
